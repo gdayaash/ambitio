@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("../fonts/fonts.css");
+
+/* Reset Default Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  line-height: 1.6;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Font Styles  */
+
+h1,
+h2,
+h3 {
+  font-family: "Clash Display", sans-serif;
+}
+
+/* Font Styles  */
+
+/* Reset Default Styles */
+
+/* Hero section */
+
+.banner-image {
+  background-image: url("/public/assets/banner.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 150px 0px;
+  border: 2px solid white;
+  box-shadow: inset 1em 1em 10em #fff;
+}
+
+.hero-banner__span {
+  color: #b10612;
+}
+
+.hero-banner__desc {
+  font-size: 20px;
+}
+
+.cta__btn {
+  background-color: #212121;
+}
+
+.no {
+  color: #b1060f;
+}
