@@ -38,3 +38,13 @@ This project is a Hero Section for a landing page, built as part of the Frontend
 ```sh
 git clone https://github.com/gdayaash/ambitio.git
 ```
+
+# Install Dependencies and run the Project
+
+## Happy Coding
+
+### Author
+
+```sh
+Dayaash G - https://github.com/gdayaash
+```
