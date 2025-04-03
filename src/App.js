@@ -27,7 +27,7 @@ function Navbar() {
         />
 
         <button className="md:hidden bg-transparent rounded-2xl space-x-1 inline-flex items-center p-2 border-solid border-2 border-red-500">
-          <a href="#">Speak with our Experts</a>
+          <a href="https://example.com">Speak with our Experts</a>
         </button>
 
         <button
@@ -47,24 +47,24 @@ function Navbar() {
         <div className="menu">
           <ul className="menu__list flex items-center space-x-4 cursor-pointer">
             <li className="flex items-center space-x-2">
-              <a href="#">Study-Abroad</a>
+              <a href="https://example.com">Study-Abroad</a>
               <img src="./assets/chev.png" alt="drop" />
             </li>
             <li className="flex items-center space-x-2">
-              <a href="#">Bootcamps</a>
+              <a href="https://example.com">Bootcamps</a>
               <img src="./assets/chev.png" alt="drop" />
             </li>
             <li className="flex items-center space-x-2">
-              <a href="#">Products</a>
+              <a href="https://example.com">Products</a>
               <img src="./assets/chev.png" alt="drop" />
             </li>
             <li className="flex items-center space-x-2">
               <img src="./assets/diamond.png" alt="drop" />
-              <a href="#">Ambitio Pro</a>
+              <a href="https://example.com">Ambitio Pro</a>
             </li>
             <li className="flex items-center space-x-2">
               <img src="./assets/crown.png" alt="drop" />
-              <a href="#">Ambitio Elite</a>
+              <a href="https://example.com">Ambitio Elite</a>
             </li>
           </ul>
         </div>
@@ -72,7 +72,7 @@ function Navbar() {
         <div className="contact-btn">
           <button className="bg-transparent rounded-2xl space-x-2 inline-flex items-center px-3 py-3 border-solid border-2 border-red-500">
             <img src="./assets/phone.png" alt="Amibito" />
-            <a href="#">Speak with our Experts</a>
+            <a href="https://example.com">Speak with our Experts</a>
           </button>
         </div>
       </div>
@@ -81,24 +81,24 @@ function Navbar() {
         <div className="absolute top-16 left-0 w-full bg-white p-5 shadow-lg md:hidden z-50">
           <ul className="flex flex-col items-center space-y-4">
             <li className="flex items-center space-x-2">
-              <a href="#">Study-Abroad</a>
+              <a href="https://example.com">Study-Abroad</a>
               <img src="./assets/chev.png" alt="drop" />
             </li>
             <li className="flex items-center space-x-2">
-              <a href="#">Bootcamps</a>
+              <a href="https://example.com">Bootcamps</a>
               <img src="./assets/chev.png" alt="drop" />
             </li>
             <li className="flex items-center space-x-2">
-              <a href="#">Products</a>
+              <a href="https://example.com">Products</a>
               <img src="./assets/chev.png" alt="drop" />
             </li>
             <li className="flex items-center space-x-2">
               <img src="./assets/diamond.png" alt="drop" />
-              <a href="#">Ambitio Pro</a>
+              <a href="https://example.com">Ambitio Pro</a>
             </li>
             <li className="flex items-center space-x-2">
               <img src="./assets/crown.png" alt="drop" />
-              <a href="#">Ambitio Elite</a>
+              <a href="https://example.com">Ambitio Elite</a>
             </li>
           </ul>
         </div>
