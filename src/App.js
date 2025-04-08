@@ -114,7 +114,7 @@ function BannerImage() {
         <img
           src="./assets/bannerlogo.png"
           alt="logo"
-          className="animate-pulse drop-shadow-[0_0_120px_#b10612]"
+          className="rot animate-pulse drop-shadow-[0_0_120px_#b10612]"
         />
       </div>
     </section>
